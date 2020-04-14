@@ -10,7 +10,7 @@
 }
 body{
     background: var(--fondo);
-    font-family: 'Open Sans', sans-serif
+    font-family: 'OpenSans';
     scroll-behavior: smooth;
 }
 .container {
@@ -26,7 +26,7 @@ header .container {
     align-items: center;
 }
 header .logo {
-    font-family: 'Bebas Neue', cursive;
+    font-family: Bebas;
     font-weight: normal;
     color: var(--rojo);
     font-size: 40px;
@@ -60,7 +60,7 @@ header nav a.activo{
     font-weight: 600;
     font-size: 3.12em;
     margin-bottom: 0.4em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: OpenSansBold;
 }
 .pelicula-principal .descripcion {
     font-weight: normal;
